@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "Anna",
+        "GPA": 4.96,
+        "SAT": 1520,
+        "English": 9.0,
+        "Programming": 95,
+        "Research": 95,
+        "ECA": 90,
+        "Final Score": 96.51
+    },
+    {
+        "Name": "David",
+        "GPA": 5.0,
+        "SAT": 1560,
+        "English": 8.5,
+        "Programming": 90,
+        "Research": 95,
+        "ECA": 70,
+        "Final Score": 94.69
+    },
+    {
+        "Name": "Tim",
+        "GPA": 5.0,
+        "SAT": 1400,
+        "English": 6.5,
+        "Programming": 80,
+        "Research": 60,
+        "ECA": 95,
+        "Final Score": 84.47
+    },
+    {
+        "Name": "Julian",
+        "GPA": 3.99,
+        "SAT": 1200,
+        "English": 5.0,
+        "Programming": 65,
+        "Research": 55,
+        "ECA": 70,
+        "Final Score": 69.25
+    },
+    {
+        "Name": "Emilia",
+        "GPA": 4.5,
+        "SAT": 1250,
+        "English": 6.0,
+        "Programming": 50,
+        "Research": 45,
+        "ECA": 40,
+        "Final Score": 68.04
+    },
+    {
+        "Name": "Theo",
+        "GPA": 3.0,
+        "SAT": 1050,
+        "English": 5.0,
+        "Programming": 40,
+        "Research": 50,
+        "ECA": 40,
+        "Final Score": 54.18
+    }
+]
